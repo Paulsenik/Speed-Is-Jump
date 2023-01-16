@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Crossfader
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Background
+  - Water
+  - UI
+  - Particles
+  - Ground
+  - Player
+  - Ghost
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 1177621753
+    locked: 0
+  - name: Shulker
+    uniqueID: 3338795451
+    locked: 0
+  - name: Player
+    uniqueID: 1703624207
+    locked: 0
+  - name: Walls
+    uniqueID: 785937439
+    locked: 0
+  - name: Ghost
+    uniqueID: 3353600451
+    locked: 0
