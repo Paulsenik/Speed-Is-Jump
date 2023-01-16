@@ -1,5 +1,7 @@
 # Speed Is Jump
 
+<img src="/Assets/Sprites/Profile.png" width=25%>
+
 The idea is that you play as a small wizard, fighing in a cave. But he has only a limited amount of magical power at a time, so he can either jump higher or walk faster.
 
 - Made for the 3rd Blackthornprod Game Jam by Paulsen (Updated Version with bugfixes, added visuals and 1 more level)
